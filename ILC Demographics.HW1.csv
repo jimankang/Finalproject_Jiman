@@ -1,16 +1,16 @@
 Last,First,MRN,Race,Sex,Genotype,Age at Tx (yrs),Date of SBTx,Operation,Primary Path,Rejection,Rejection Date,Difference Days,GVHD,GVHD date,Death,Date of Death,Cause of Death,2_4wk_NCR_ILC1,2_4wk_NCR_ILC3,2_4M_NCR_ILC1,2_4M_NCR_ILC3,4_6M_NCR_ILC1,4_6M_NCR_ILC3
 XXX,XXX,720XXX,White,F,WT,3.9,9/3/2015,L/Panc/SB,Gastroschisis,No,NA,NA,No,NA,No,NA,NA,83.9,0,88.9,0,92.9,2.17
-XXX,XXX,632XXX,White,M,WT,20.7,9/18/2015,SB,Mitochodrial motility disorder,No,NA,NA,No,NA,No,NA,NA,90,1.2,33,3.85,94.4,4
+XXX,XXX,632XXX,White,M,WT,20.7,9/18/2015,SB,Mitochodrial motility disorder,No,NA,NA,No,NA,No,NA,NA,90,1.2,1.2,3.85,94.4,4
 XXX,XXX,734XXX,White,F,WT,54.6,9/23/2015,SB,Mesenteric arterial thrombosis/embolus,No ,NA,NA,No,NA,No,NA,NA,NA,NA,NA,NA,NA,NA
 XXX,XXX,226XXX,Hispanic,M,WT,1.7,11/19/2015,L/Panc/SB,Microvillious inclusion disease,No,NA,NA,No,NA,No,NA,NA,NA,NA,NA,NA,NA,NA
 XXX,XXX,653XXX,White,F,WT,54.1,11/22/2015,SB,Mass resection 2/2 tumor,YES,12/1/2015,9,No,NA,No,NA,NA,NA,NA,NA,NA,NA,NA
 XXX,XXX,734XXX,White,M,WT,20.1,12/2/2015,SB,SGS 2/2 multiple SB resections from SBOs,No,NA,NA,No,NA,No,NA,NA,76.9,0,24,6.38,0,27.3
 XXX,XXX,737XXX,White,M,WT,1.2,12/8/2015,SB,Intestinal volvulus,No,NA,NA,No,NA,No,NA,NA,60.5,0.97,69,0.53,69.4,3.93
 XXX,XXX,736XXX,White,M,Mut,1.4,2/9/2016,L/Panc/SB,Intestinal volvulus 2/2 malrotation,No,NA,NA,No,NA,No,NA,NA,78.8,1.92,NA,NA,35.3,5.13
-XXX,XXX,733XXX,Black,M,WT,23.3,3/5/2016,SB/C,"Gardner's Syndrome (FAP, Desmoids)",Yes,1/8/2018,674,No,NA,No,NA,NA,NA,NA,NA,NA,NA,NA
+XXX,XXX,733XXX,Black,M,WT,23.3,3/5/2016,SB+C,"Gardner's Syndrome (FAP, Desmoids)",Yes,1/8/2018,674,No,NA,No,NA,NA,NA,NA,NA,NA,NA,NA
 XXX,XXX,722XXX,White,F,WT,52.8,3/5/2016,SB,SGS 2/2 multiple resections from SBOs,No,NA,NA,No,NA,Yes,3/7/2016,asystole,NA,NA,NA,NA,NA,NA
 XXX,XXX,733XXX,White,F,WT,45.5,3/9/2016,SB,Malrotation,No,NA,NA,No,NA,Yes,8/11/2017,NA,20,0,88,1,NA,NA
-XXX,XXX,735XXX,White,M,WT,63.0,4/18/2016, L/Panc/SB,PVT/SVT; Cirrhosis,Yes,5/10/2016,22,No,NA,No,NA,NA,NA,NA,NA,NA,NA,NA
+XXX,XXX,735XXX,White,M,WT,63,4/18/2016,L/Panc/SB,PVT/SVT; Cirrhosis,Yes,5/10/2016,22,No,NA,No,NA,NA,NA,NA,NA,NA,NA,NA
 XXX,XXX,717XXX,White,M,WT,3.1,4/19/2016,SB,Midgut volvulus,No,NA,NA,No,NA,Yes,5/10/2016,NA,51.4,2.37,66.9,2.16,10.9,29.3
 XXX,XXX,718XXX,Black,M,WT,3.2,4/21/2016,L/Panc/SB,Gastroschisis,No,NA,NA,No,NA,No,NA,NA,70.4,1.27,25,13.6,NA,NA
 XXX,XXX,737XXX,White,M,WT,54.8,5/5/2016,L/SB,SGS 2/2 Midgut Volvulus,Yes,5/24/2016,19,Yes,8/24/2016,No,NA,NA,NA,NA,NA,NA,NA,NA
@@ -27,7 +27,7 @@ XXX,XXX,743XXX,White,M,NA,8.2,11/9/2016,MVTx,Pseudoobstruction,No,NA,NA,No,NA,No
 XXX,XXX,757XXX,Black,M,NA,0.6,2/23/2017,MVTx,Necrotizing enterocolitis ,No,NA,NA,No,NA,Yes,6/4/2017,cardiac arrest,NA,NA,NA,NA,NA,NA
 XXX,XXX,740XXX,Black,M,NA,1.6,2/25/2017,MVTx,Necrotizing enterocolitis ,No,NA,NA,No,NA,No,NA,NA,NA,NA,NA,NA,NA,NA
 XXX,XXX,754XXX,Black,F,NA,2.7,5/19/2017,SB+C,Volvulus,No,NA,NA,No,NA,No,NA,NA,60.8,37.96,85.2,11.4,NA,NA
-XXX,XXX,749XXX,Black,F,NA,0.0,5/20/2017,SB+C,Necrotizing enterocolitis ,No,NA,NA,No,NA,YEs,12/8/2017,cardiac arrest,84.6,15.36,75,25,NA,NA
+XXX,XXX,749XXX,Black,F,NA,0,5/20/2017,SB+C,Necrotizing enterocolitis ,No,NA,NA,No,NA,YEs,12/8/2017,cardiac arrest,84.6,15.36,75,25,NA,NA
 XXX,XXX,700XXX,Black,M,WT,25.7,6/2/2017,SB+C," traumatic superior
 mesenteric artery injury",Yes,6/24/2017,22,Yes,8/10/2017,No,NA,NA,87.8,9.44,NA,NA,97.2,2.23
 XXX,XXX,756XXX,White,M,NA,31.9,6/21/2017,MVTx,Diffuse portal mesenteric thrombosis,Yes,8/8/2017,48,Yes,7/17/2017,No,NA,,30,0,NA,NA,NA,NA
@@ -35,43 +35,8 @@ XXX,XXX,746XXX,White,M,NA,51.6,6/23/2017,MVTx,metastatic neuroendocrine tumor of
 XXX,XXX,753XXX,White,M,NA,16.9,7/7/2017,MVTx,Mesenteric thrombosis,No,NA,NA,Yes,8/1/2017,No,NA,NA,96.2,0,10,0,NA,NA
 XXX,XXX,757XXX,White,M,NA,56.7,9/14/2017,SB+C,short gut syndrome secondary to complications from colectomy and partial nephrectomy,No,NA,NA,No,NA,No,NA,NA,NA,NA,0,0,96.2,3.79
 XXX,XXX,760XXX,Hispanic,F,NA,29.5,9/22/2017,SB+C," GI dysmotility, FTT, and diagnosis of Hollow Visceral Myopathy",No,NA,NA,No,NA,No,NA,NA,NA,NA,NA,NA,56.4,23.61
-XXX,XXX,761XXX,White,F,WT,25.1,10/24/2017,SB, gastrointestinal dysmotility,No,NA,NA,No,NA,No,NA,NA,66.3,30.62,40,0,87.8,4.49
+XXX,XXX,761XXX,White,F,WT,25.1,10/24/2017,SB, gastrointestinal dysmotility,No,NA,NA,No,NA,No,NA,NA,66.3,30.62,3,0,87.8,4.49
 XXX,XXX,746XXX,White,M,WT,42.4,10/28/2017,SB+C,chronic intestinal pseudo-obstruction,No,NA,NA,Yes,11/19/2017,No,NA,NA,20,0,32.7,66.37,70.6,28.23
 XXX,XXX,653XXX,Black,M,NA,17.6,11/17/2017,SB+C," OEIS syndrome (omphalocele, cloacal exstrophy, imperforate anus, and spine abnormalities",No,NA,NA,No,NA,No,NA,NA,58.8,34.26,71.4,28.6,NA,NA
 XXX,XXX,737XXX,Hispanic,M,Mut,36.2,11/28/2017,SB+C,short gut syndrome from penetrating abdominal trauma from an IED ,Yes,12/21/2017,23,No,NA,No,NA,NA,38.6,0.33,49,0,NA,NA
 XXX,XXX,635XXX,White,F,WT,52.4,12/29/2017,SB+C,Roux-en-Y gastric bypass and reversal with multiple subsequent laparotomies resulting in short gut syndrome,Yes,3/9/2018,70,No,NA,No,NA,NA,20,0,62.7,31.31,NA,NA
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
